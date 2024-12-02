@@ -137,33 +137,3 @@ TODO: Write one sentence about this skill.
 TODO: Provide at least one reference to support your assertion.
 TODO: Your reference should be a URL in the "Fuzzing Book"
       or a reference to a reputable web site that you found online.
-
-## Learning Objectives
-
-After consulting the [Learning
-Objectives](https://developerdevelopment.com/syllabus/#learning-objectives) for
-the Software Engineering course, pick at least one of them that **connects to
-technical development** and write the learning objective in its entirety
-below this paragraph. Next, accurately assess your attainment of that learning
-objective on a scale between 1 and 5 where 1 indicates that you are emerging as
-a learner for the objective and 5 indicates that you are developer who expertly
-completes tasks associated with the learning objective and are prepared to
-effectively teach it to others.
-
-### Restatement of Learning Objective
-
-TODO: Make sure to re-state one of the learning objectives, using the correct
-notation for its label as provided in the syllabus.
-
-### Assessment of Your Attainment of the Learning Objective
-
-- [] 1 (**Emerging**): The developer is beginning to learn this skill or concept
-and needs significant guidance and/or support.
-- [] 2 (**Developing**): The developer has some understanding but still needs
-help and practice to fully grasp the skill or concept.
-- [] 3 (**Competent**): The developer has a solid understanding and can
-independently apply the skill or concept most of the time.
-- [] 4 (**Proficient**): The developer has a deep understanding and can
-consistently apply the skill or concept independently and effectively.
-- [] 5 (**Expert**): The developer has mastered the skill or concept and can
-apply it in complex situations and even teach it to others.
