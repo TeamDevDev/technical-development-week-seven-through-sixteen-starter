@@ -138,7 +138,7 @@ TODO: Provide at least one reference to support your assertion.
 TODO: Your reference should be a URL in the "Fuzzing Book"
       or a reference to a reputable web site that you found online.
 
-### Write three sentences that summarize your experience when completing the technical development assignments in the software engineering course this semester. What did you like? What did you not like? What suggestion can you offer for improving the course in the future?
+### Write three sentences that summarize your experience when completing the technical development assignments in the software engineering course this semester. What did you like? What did you not like? What suggestion can you offer for improving this aspect the course in the future?
 
 #### Sentence One: Answer the question `What did you like about technical development?`
 
