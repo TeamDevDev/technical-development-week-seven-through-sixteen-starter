@@ -47,6 +47,7 @@ TODO: Please do not fill in the checkbox if you did not complete the technical d
 #### Class Discussions
 
 - [] Regularly participated in the class discussions about technical development
+- [] Read all blog posts published by students in the software engineering course
 - [] Completed all of the documentation and reflection tasks in this document
 - [] Gave an overall assessment for the prior module(s) of the course
 - [] Made suggestions for improvement of the next edition in the course
@@ -61,7 +62,7 @@ TODO: Please do not fill in the checkbox if you did not complete the technical d
 
 - [] Setup a complete Python-based development environment to run source code Fuzzing Book and Debugging Book
 - [] Installed all of the Fuzzing Book and/or Debugging Book dependencies
-- [] Ran a local or accessed a remote Jupyter Lab server for the Fuzzing Book and Debugging Book
+- [] Ran a local and/or accessed a remote Jupyter Lab server for the Fuzzing Book and Debugging Book
 - [] Executed all of the source code segments in each assigned chapter of Fuzzing Book and Debugging Book
 
 ### Technical Development Reflection
