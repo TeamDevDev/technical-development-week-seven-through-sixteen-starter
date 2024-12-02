@@ -31,18 +31,38 @@ TODO: Make sure to include your name in the above heading.
 TODO: Please create a filled checkbox for each technical development task that you completed
 TODO: Please do not fill in the checkbox if you did not complete the technical development task
 
+#### Reading Assignments
+
 - [] Read the FB1 article
 - [] Read the FB2 article
 - [] Read the FB3 article
 - [] Read the FB4 article
+- [] Read the FB5 article
+- [] Read the FB6 article
+- [] Read the FB7 article
+- [] Read the FB8 article
+- [] Read the FB9 article
+- [] Read the DB1 article
+
+#### Class Discussions
+
+- [] Regularly participated in the class discussions about technical development
+- [] Completed all of the documentation and reflection tasks in this document
+- [] Gave an overall assessment for the prior module(s) of the course
+- [] Made suggestions for improvement of the next edition in the course
+
+#### Technical Development Assignments
+
+- [] Completed all of the team-based writing assignments for the course web site
+- [] Completed all of the documentation tasks in this repository
+- [] Completed all of the reflection tasks in this repository
+
+#### Technical Development Environment
+
 - [] Setup a complete Python-based development environment to run source code Fuzzing Book and Debugging Book
 - [] Installed all of the Fuzzing Book and/or Debugging Book dependencies
 - [] Ran a local or accessed a remote Jupyter Lab server for the Fuzzing Book and Debugging Book
 - [] Executed all of the source code segments in each assigned chapter of Fuzzing Book and Debugging Book
-- [] Regularly participated in the class discussions about technical development
-- [] Completed all of the documentation and reflection tasks in this document
-- [] Gave an overall assessment for the prior module of the course
-- [] Made suggestions for improvement of the next module in the course
 
 ### Technical Development Reflection
 
