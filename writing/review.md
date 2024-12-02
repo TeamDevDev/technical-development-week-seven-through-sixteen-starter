@@ -69,15 +69,15 @@ TODO: Please do not fill in the checkbox if you did not complete the technical d
 
 TODO: Provide a brief one paragraph response to these questions.
 
-#### What is fuzzing? How can fuzzing support the development of high-quality software?
+#### What is fuzzing? How can it support the development of high-quality software?
 
 TODO: Write a brief one paragraph response to this question.
 
-#### What is debugging? How can debugging support the development of high-quality software?
+#### What is debugging? How can it support the development of high-quality software?
 
 TODO: Write a brief one paragraph response to this question.
 
-#### What is testing? How can debugging support the development of high-quality software?
+#### What is testing? How can it support the development of high-quality software?
 
 TODO: Write a brief one paragraph response to this question.
 
@@ -103,13 +103,6 @@ start of the next edition of the Software Engineering course.
 
 TODO: Make sure that you delete all of the prompts in the following sections.
 
-#### Code Coverage
-
-TODO: Write one sentence about this skill.
-TODO: Provide at least one reference to support your assertion.
-TODO: Your reference should be a URL in the "Fuzzing Book"
-      or a reference to a reputable web site that you found online.
-
 #### Mutation Testing
 
 TODO: Write one sentence about this skill.
@@ -117,14 +110,28 @@ TODO: Provide at least one reference to support your assertion.
 TODO: Your reference should be a URL in the "Fuzzing Book"
       or a reference to a reputable web site that you found online.
 
-#### "Black Box" Testing
+#### Mutation-Based Fuzzing
 
 TODO: Write one sentence about this skill.
 TODO: Provide at least one reference to support your assertion.
 TODO: Your reference should be a URL in the "Fuzzing Book"
       or a reference to a reputable web site that you found online.
 
-#### "White Box" Testing
+#### Input Parsing
+
+TODO: Write one sentence about this skill.
+TODO: Provide at least one reference to support your assertion.
+TODO: Your reference should be a URL in the "Fuzzing Book"
+      or a reference to a reputable web site that you found online.
+
+#### Efficient Grammar Fuzzing
+
+TODO: Write one sentence about this skill.
+TODO: Provide at least one reference to support your assertion.
+TODO: Your reference should be a URL in the "Fuzzing Book"
+      or a reference to a reputable web site that you found online.
+
+#### Failure-Inducing Input Reduction
 
 TODO: Write one sentence about this skill.
 TODO: Provide at least one reference to support your assertion.
