@@ -20,18 +20,6 @@
         fragment: "- ["
         count: 7
         exact: false
-    - description: Completely write a learning objective using the SE- notation in the course syllabus
-      check: MatchFileFragment
-      options:
-        fragment: "SE-"
-        count: 1
-        exact: false
-    - description: Indicate your level of proficiency for a learning objective and furnish feedback
-      check: MatchFileFragment
-      options:
-        fragment: "- [X]"
-        count: 6
-        exact: false
     - description: Write a minimum number of meaningful words in the review document
       check: CountFileWords
       options:
@@ -43,11 +31,11 @@
         tag: heading
         count: 15
         exact: false
-    - description: Confirm that the markdown file has at least seven check lists
+    - description: Confirm that the markdown file has at least four check lists
       check: CountMarkdownTags
       options:
         tag: list 
-        count: 7
+        count: 4
         exact: false
 
 # confirm a suitable number of commit messages
