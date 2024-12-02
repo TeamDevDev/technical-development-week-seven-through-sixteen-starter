@@ -1,8 +1,4 @@
-# Table of Contents
-
-<!---toc start-->
-
-<!---toc end-->
+# Assessment of Technical Development
 
 ## Assessment Overview
 
