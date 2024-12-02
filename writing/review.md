@@ -61,7 +61,7 @@ TODO: Please do not fill in the checkbox if you did not complete the technical d
 #### Technical Development Environment
 
 - [] Setup a complete Python-based development environment to run source code Fuzzing Book and Debugging Book
-- [] Installed all of the Fuzzing Book and/or Debugging Book dependencies
+- [] Installed all of the Fuzzing Book and/or Debugging Book Python dependencies
 - [] Ran a local and/or accessed a remote Jupyter Lab server for the Fuzzing Book and Debugging Book
 - [] Executed all of the source code segments in each assigned chapter of Fuzzing Book and Debugging Book
 
@@ -73,15 +73,19 @@ TODO: Provide a brief one paragraph response to these questions.
 
 TODO: Write a brief one paragraph response to this question.
 
-#### What is one practice/technique from the Fuzzing/Debugging book that enabled you to become a more joy-filled software engineer?
+#### What is debugging? How can debugging support the development of high-quality software?
 
 TODO: Write a brief one paragraph response to this question.
 
-#### From the perspective of technical development and the content in the Fuzzing/Debugging book, what is the greatest weakness of your software engineering team? Why? How would you advise the team to improve?
+#### What is testing? How can debugging support the development of high-quality software?
 
 TODO: Write a brief one paragraph response to this question.
 
-#### From the perspective of technical development and the content in the Fuzzing/Debugging book, what is your greatest weakness? Why? How do you plan to improve as this course continues?
+#### What is one insight from either the FB or DB books that you have applied to your practice of software engineering? What happened when you applied this insight?
+
+TODO: Write a brief one paragraph response to this question.
+
+#### What is one practice from either the FB or DB books that enabled you to become a more joy-filled software engineer?
 
 TODO: Write a brief one paragraph response to this question.
 
