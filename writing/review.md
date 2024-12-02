@@ -136,6 +136,10 @@ TODO: Your reference should be a URL in the "Fuzzing Book"
 
 ### Write three sentences that summarize your experience when completing the technical development assignments in the software engineering course this semester. What did you like? What did you not like? What suggestion can you offer for improving this aspect the course in the future?
 
+TODO: Please note that, unless you do not answer these questions, your
+responses to these questions will neither positively nor negatively influence
+your grade in the software engineering course.
+
 #### Sentence One: Answer the question `What did you like about technical development?`
 
 TODO: Write one sentence to answer the question.
